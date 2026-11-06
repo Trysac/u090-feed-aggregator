@@ -9,4 +9,5 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Added
 
+- Add feed_aggregator: DTD-free RSS 2.0, RSS 1.0, Atom and Hacker News aggregation with canonical URLs, deduplication and a safe default fetcher.
 - Initial project structure from the factory utility template.
